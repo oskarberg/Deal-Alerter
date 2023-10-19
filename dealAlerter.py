@@ -55,6 +55,6 @@ for website in websites:
 
 # If there are matched names, send a desktop notification
 if matched_names:
-    send_desktop_notification("Match Found!", "\n".join(matched_names))
+    send_desktop_notification("Watchlisted item on sale!", "\n".join(matched_names))
 
 
