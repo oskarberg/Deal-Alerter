@@ -1,6 +1,7 @@
 # DealAlerter
 
-A simple script to notify user when specific products are available on sale across multiple websites.
+A simple script to notify user when watchlisted products are on sale across multiple websites.
+Websites: bjjfanatics.com, wrestlingfanatics.com, dynamicstriking.com
 
 # Features
 
